@@ -16,7 +16,6 @@ server:
   port: 7091
 
 
-
 spring:
   application:
     name: seata-server
